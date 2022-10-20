@@ -1,8 +1,8 @@
 # Finance-in-Python
 
-<h3>Analysis of the data of the 'Generali Złota' fund</h3>
+<h3>Generali Złota fund data analysis</h3>
 
-Analysis includes 
+Analysis include 
 - Calculation of Descriptive Statistics
 - VaR & ES estimation using various methods
 - Crucial visualizations 
